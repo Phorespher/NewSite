@@ -1,0 +1,44 @@
+body {
+    background-image: url('Information-technology-big-data-collection-complex.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    }
+h1{
+    color: rgb(44, 255, 202);
+    font-family: 'Copperplate Gothic Light';
+    font-size: 60px;
+}
+a:link{
+    color: rgb(19, 204, 80);
+}
+table,td,th{
+    border:3px solid gray;
+    border-collapse: collapse;
+    width: 40%;
+    word-wrap: break-word;
+    font-family: 'MV Boli';
+}
+tr:nth-child(1){
+    background-color:rgba(221, 24, 24, 0.822);
+}
+tr:nth-child(even){
+    background-color:rgb(247, 236, 82);
+    color: black;
+}
+tr:nth-child(3){
+    background-color:teal;
+}
+tr:nth-child(5){
+    background-color:teal;
+}
+tr:nth-child(7){
+    background-color:teal;
+}
+tr:nth-child(9){
+    background-color:teal;
+}
+tr:nth-child(11){
+    background-color:teal;
+}
